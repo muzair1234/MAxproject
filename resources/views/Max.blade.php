@@ -767,7 +767,7 @@ background-attachment: fixed;">
 
 
     <div class="col-sm-3">
-      <div  style="border: 1px solid #ddd;border:1px solid #ddd;width: 300px ;margin-top: 100px;height: 340px" >
+      <div  style="border: 1px solid #ddd;border:1px solid #ddd;width: 300px ;margin-top: 100px;height: 340px;color: #666;font-size: 12px" >
 
 
         <button class="w3-button w3-black w3-display-left btn btn-light" onclick="plusDivs(-1)" style="margin-left:10px;">&#10094;</button>
@@ -783,7 +783,7 @@ background-attachment: fixed;">
         <img class="mySlides" src="chef.png" style="width:84%;height:40%;">
         <br>
 
-        <h4><span class="text" style="margin-left: 15px ;color:#ddd" ><b>Resturant</b></span></h4>
+        <h4><span class="text" style="margin-left: 15px ;margin-top: 15px" ><b>Resturant</b></span></h4>
         Smoked quail, crispy egg, spelt, girolles, parsley
         <br>
         <br>
@@ -816,14 +816,17 @@ background-attachment: fixed;">
 
         <div class="col-sm-3"> 
 
-          <div style="border:1px solid #ddd;width: 300px;;margin-top: 100px ">
+          <div style="border:1px solid #ddd;width: 300px;;margin-top: 100px;height: 340px ">
 
-            <h3 style="margin-top: 5px;margin-left: 75px" >TWITTER</h3>
-            <div style="margin-left: 20px">
+            <h4 class="text"  style="margin-top: 15px; color:gray;margin-left: 75px" ><b>TWITTER</b></h4>
+            <div style="margin-left: 20px;color: #666;font-size: 12px">
               Make sure you are following<span style="cursor: pointer;">@EnvatoMarket</span>
               for all your ThemeForest needs
               <br>
               <span style="color: #999999 ;font-size: 12px">Sep, 15 2014</span>
+              <br>
+              Eight marketplaces, one Envato Market. Join us:
+              <a href=" http://t.co/cLo2w7rWOx" class="text" style="cursor: pointer;">http://t.co/cLo2w7rWOx</a>
               <br>
               Eight marketplaces, one Envato Market. Join us:
               <a href=" http://t.co/cLo2w7rWOx" class="text" style="cursor: pointer;">http://t.co/cLo2w7rWOx</a>
@@ -843,7 +846,8 @@ background-attachment: fixed;">
         </div>
 
         <div class="col-sm-3">
-         <div style="border:1px solid #ddd;width: 300px;margin-top: 100px">
+         <div style="border:1px solid #ddd;
+         width: 300px;margin-top: 100px;color: #666;font-size: 12px">
            <a > 
             <img src="gg.jpg" style="width:100px;height: 60px;cursor: pointer; margin: 20px">
           </a>
